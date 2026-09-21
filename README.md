@@ -1,0 +1,1 @@
+# 5star-hotel-deals-scanner
